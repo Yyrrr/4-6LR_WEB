@@ -1,2 +1,2 @@
 Лабораторная работа №4-6 по Веб-программированию. Михайлуца Надежда ИДБ-19-05.
-https://yyrrr.github.io/1LR_WEB/index.html
+https://yyrrr.github.io/4-6LR_WEB/index.html
